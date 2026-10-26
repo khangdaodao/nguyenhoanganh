@@ -3,7 +3,7 @@
       template to a new customer.
    ========================================================== */
 const config = {
-  recipientName: "Crushh<3",          // shown as "for My Love" (set "" to hide)
+  recipientName: "Nguyễn Anh Hoàng<3",          // shown as "for My Love" (set "" to hide)
   forLine: "for {name}",
   yesLabel: "Cóa ",
   noLabel: "Hong thèm 💔",
